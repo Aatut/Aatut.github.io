@@ -1,0 +1,1 @@
+// for ratingD.html scripts!
