@@ -1231,6 +1231,7 @@ progress {
     margin: 1rem;
   }
 
+
   .col-md-custom-center {
     flex: 0 0 auto;
     width: auto;
@@ -1238,6 +1239,7 @@ progress {
     margin: 1rem;
     margin: auto; /* This is what makes this centered */
   }
+
 
   .offset-md-0 {
     margin-left: 0;
